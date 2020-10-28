@@ -90,8 +90,7 @@ li {
     justify-content: center;
     align-content: center;
     display: flex;
-    /* display: inline-flex; */
-    /* float: right; */
+    
   }
   h2 {
     padding-left: 40px;
@@ -108,3 +107,11 @@ li {
   .padding-right {
     padding-right: 130px;
   }
+
+  #gif {
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    align-content: center;
+    padding-left: 700px;
+}
